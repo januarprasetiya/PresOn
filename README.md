@@ -32,7 +32,7 @@
 - 21100009
 - 21100010
 
-**NIM yang tidak tersedia dan mengisikan tanggal tidak sesuai dengan tanggal yang ditentukan oleh pengajar maka tidak akan terekap**
+**NIM yang tidak tersedia dan mengisikan tanggal tidak sesuai dengan tanggal yang ditentukan oleh pengajar maka tidak akan terekap. Rekap hanya terjadi sekali saja meskipun mengisikan berkali-kai**
 
 ## Konsep
 
@@ -51,4 +51,6 @@ Website ini menggunakan sistem yang sederhana, yaitu sebagai berikut.
 
 ## Kekurangan
 
-Website ini sebatas uji coba dan latihan dari video tutorial Ngobar #29 WPU. Sembari mengasah kemampuan dalam dunia web development. Berniat web ini bisa menjadi website yang dinamis untuk menambahkan kelas, membuat daftar presensi sampai dengan produksi presensi.
+- Website ini sebatas uji coba dan latihan dari video tutorial Ngobar #29 WPU. Sembari mengasah kemampuan dalam dunia web development. Berniat web ini bisa menjadi website yang dinamis untuk menambahkan kelas, membuat daftar presensi sampai dengan produksi presensi.
+- Masih belum bisa membatasi dengan waktu. Jika tidak berkenan untuk presensi rumus yang ada pada google spreadsheet harus di hapus untuk setiap pertemuan.
+- Belum bisa validasi nim yang terdaftar seperti pada google form validation.
