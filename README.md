@@ -43,6 +43,7 @@ Konsep dari web ini sederhana. Siswa / Mahasiswa presensi, seperti menggunakan g
 Website ini menggunakan sistem yang sederhana, yaitu sebagai berikut.
 
 - Bootstrap Veersi 5
+- Bootstrap Data Picker
 - Java Script
 - [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets)
 - Google Spreadsheet
