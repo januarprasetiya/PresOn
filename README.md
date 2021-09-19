@@ -56,4 +56,4 @@ Website ini menggunakan sistem yang sederhana, yaitu sebagai berikut.
 - Masih belum bisa membatasi dengan waktu. Jika tidak berkenan untuk presensi rumus yang ada pada google spreadsheet harus di hapus untuk setiap pertemuan.
 - Belum bisa validasi nim yang terdaftar seperti pada google form validation.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0c404268-689f-4f13-b3c1-1710c51a6ef5/deploy-status)](https://app.netlify.com/sites/preson/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c404268-689f-4f13-b3c1-1710c51a6ef5/deploy-status)](https://preson.netlify.com)
