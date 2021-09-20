@@ -54,7 +54,6 @@ Website ini menggunakan sistem yang sederhana, yaitu sebagai berikut.
 - Google Spreadsheet
 - Google AppsScript
 - Netlify untuk deploy
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/0c404268-689f-4f13-b3c1-1710c51a6ef5/deploy-status)](https://preson.netlify.com)
 
 ## Kekurangan
 
