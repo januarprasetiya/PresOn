@@ -1,8 +1,8 @@
 # PresOn
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0c404268-689f-4f13-b3c1-1710c51a6ef5/deploy-status)](https://preson.netlify.com)
-![GitHub last commit](https://img.shields.io/github/last-commit/januarprasetiya/PresOn)
-![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/januarprasetiya/PresOn?include_prereleases)
+[GitHub last commit](https://img.shields.io/github/last-commit/januarprasetiya/PresOn)
+[GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/januarprasetiya/PresOn?include_prereleases)
 
 ## Tentang PresOn
 
