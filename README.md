@@ -1,10 +1,9 @@
 # PresOn
 
-<p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/januarprasetiya/PresOn">
 <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/januarprasetiya/PresOn?include_prereleases">
-</p>
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/0c404268-689f-4f13-b3c1-1710c51a6ef5/deploy-status)](https://preson.netlify.com) -->
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c404268-689f-4f13-b3c1-1710c51a6ef5/deploy-status)](https://preson.netlify.com)
 
 ## Tentang PresOn
 
